@@ -24,7 +24,7 @@
 
 - 📫 How to reach me: **jasmineshaik54@gmail.com**
 
-- ⚡ Fun fact: **Pssh! I'm a freelance fashion designer.**
+- ⚡ Fun fact: **Psst! I'm a freelance fashion designer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
