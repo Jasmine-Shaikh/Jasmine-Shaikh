@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋</h1>
-<h3 align="center">I'm <a href="https://github.com/Jasmine-Shaikh">Jasmine Shaikh</a> and I code.</h3>
+<h3 align="center">I'm <a href="https://github.com/Jasmine-Shaikh">Jasmine Shaikh</a> and I like to code.</h3>
 
 <!-- TO ADD PROFILE VIEWS  -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasmine-shaikh&label=Profile%20views&color=0e75b6&style=flat" alt="jasmine-shaikh" /> </p> -->
