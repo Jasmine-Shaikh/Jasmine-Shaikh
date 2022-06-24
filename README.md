@@ -17,11 +17,11 @@
 
 <hr/>
 
+- 📄 Currently learning about: React and Redux 
+
 - 💬 Ask me about: **Anything and everything. Would love to connect.**
 
 - 📫 How to reach me: **jasmineshaik54@gmail.com**
-
-- 📄 Know about my experiences: [https://drive.google.com/file/d/13Dfl0cIKo1GYgNXvb_mzERQUgS0Jtx8q/view?usp=sharing](https://drive.google.com/file/d/13Dfl0cIKo1GYgNXvb_mzERQUgS0Jtx8q/view?usp=sharing)
 
 - ⚡ Fun fact: **Pssh! I'm a freelance fashion designer.**
 
