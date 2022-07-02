@@ -18,7 +18,7 @@
 
 <hr/> -->
 
-- 📄 Currently learning : **React and Redux** 
+- 📄 Currently learning : **Redux** 
 
 - 💬 Ask me about: **Anything and everything. Would love to connect.**
 
