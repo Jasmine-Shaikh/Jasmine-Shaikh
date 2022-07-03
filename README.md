@@ -6,8 +6,8 @@
 <div align="center">
  <img align="center" src="https://c.tenor.com/Bgi_54meeiMAAAAC/anime-typing.gif" alt="Just another cute GIF">
 </div>
-<p>
-It all started with a Big Bang.... which in my case a simple { console.log("Hello World") } and I've never looked back ever since.
+<p align="center">
+It all started with { console.log("Hello World") } and I've never looked back ever since.
 <br/>
 I mean why would I want to! Cause being a Mathematician and a Fashion Designer (I know the combos unusual. I get it!) I had always wished to do something where I could feed both my passion for Creation and Logic. Just before I almost had an existential crisis in search of the Mr.Perfect_Career I landed on Software Development. That was it. Just the right amount of Creativity and Logic for me.Also a worthy mention "Debugging", the right amount of paranoia. Creating stuff using technology which solves a real world problem. I mean could it get any better. Fast foward to today and I am a Full-Stack web developer exploring and trying to learn something new everyday about the world of "Hello World".
 Also when I am not coding I enjoy literature, Music , Travelling(Specially to places with good food), Volunteering and everything the gives me an adrenaline rush.
