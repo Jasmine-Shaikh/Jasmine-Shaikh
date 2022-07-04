@@ -10,7 +10,7 @@
 It all started with { console.log("Hello World") }  and I've never looked back ever since.
 <br/>
  <br/>
-I mean, why would I want to? Cause being a Mathematician and a Fashion Designer (I know the combos unusual. I get it!👀) I had always wished to do something where I could feed my passion for both Creation and Logic. Just before I almost had an existential crisis in search of the Mr.Perfect_Career, I landed on Software Development which had just the right amount of Creativity and Logic. Also, 'Debugging' , the right amount of paranoia 🙃. Creating stuff using technology that solves a real-world problem. Honestly, could it get any better😍. Fast forward, and I am a Full-Stack web developer now 👩‍💻 exploring and trying to learn something new every day about the world of "Hello World".
+I have always wished to do something where I could feed my passion for both Creation and Logic. Just before I almost had an existential crisis in search of the Mr.Perfect_Career, I landed on Software Development which had just the right amount of Creativity and Logic. Also, 'Debugging' , the right amount of paranoia 🙃. Creating stuff using technology that solves a real-world problem. Honestly, could it get any better😍. Fast forward, and I am a Full-Stack web developer now 👩‍💻 exploring and trying to learn something new every day about the world of "Hello World".
  <br/>
  <br/>
 Also, when I am not coding, I enjoy literature, music, travelling(especially to places with good food), volunteering and everything that gives me an adrenaline rush.
