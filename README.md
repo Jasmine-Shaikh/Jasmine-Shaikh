@@ -27,7 +27,7 @@ Also, when I am not coding, I enjoy literature, music, travelling(especially to 
 
 <hr/> -->
 
-- 📄 Currently learning : **MERN** 
+- 📄 Currently learning : **MERN Stack ** 
 
 - 💬 Ask me about: **Anything and everything. Would love to connect.**
 
