@@ -27,7 +27,7 @@ Also, when I am not coding, I enjoy literature, music, travelling(especially to 
 
 <hr/> -->
 
-- 📄 Currently learning : **MERN Stack ** 
+- 📄 Currently learning : **MERN Stack** 
 
 - 💬 Ask me about: **Web development and design and AR/VR ideas.**
 
