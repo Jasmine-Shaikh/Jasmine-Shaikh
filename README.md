@@ -29,7 +29,7 @@ Also, when I am not coding, I enjoy literature, music, travelling(especially to 
 
 - 📄 Currently learning : **MERN Stack ** 
 
-- 💬 Ask me about: **Web development and design and AR/VR technologies.**
+- 💬 Ask me about: **Web development and design and AR/VR ideas.**
 
 - 📫 How to reach me: **jasmineshaik54@gmail.com**
 
