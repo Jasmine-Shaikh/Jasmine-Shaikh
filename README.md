@@ -27,7 +27,7 @@ It all started with { console.log("Hello World") }  and I've never looked back e
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/jasmine-shaikh-5a7b7b162" target="blank">
+  <a href="https://www.linkedin.com/in/jasmine-shaikh-5a7b7b162" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasmine shaikh" height="30" width="40" />
   </a>
  <a href="mailto:jasmineshaikh54@gmail.com" target="blank">
