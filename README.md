@@ -21,15 +21,13 @@ It all started with { console.log("Hello World") }  and I've never looked back e
 
 <hr/> -->
 
-- 📄 Currently learning : **MERN Stack** 
-
-- 💬 Ask me about: **Web development and design and AR/VR ideas.**
+- 💬 Ask me about: **Web development | UI design | AR/VR ideas.**
 
 - 📫 How to reach me: **jasmineshaikh54@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/jasmine shaikh" target="blank">
+  <a href="www.linkedin.com/in/jasmine-shaikh-5a7b7b162" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasmine shaikh" height="30" width="40" />
   </a>
  <a href="mailto:jasmineshaikh54@gmail.com" target="blank">
